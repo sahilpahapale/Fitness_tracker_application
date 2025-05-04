@@ -1,4 +1,4 @@
-# Titan Health App - Documentation
+# Titan Fitness Tracker App - Documentation
 A web application for Purdue Students that seamlessly combines exercise and nutrition tracking while offering intelligent, personalized suggestions to guide users' health and fitness journeys 🍎🏋️.
 
 Specialized dining court integration features are included for students @ Purdue.
