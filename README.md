@@ -74,7 +74,3 @@ Below are screenshots of some of the pages within our site as a preview! **Note 
 
 #### Home Page
 <img width="1440" alt="Home Page" src="https://github.com/youngbryanyu/titan-health-app/assets/32204448/aaa9c1fb-fa5d-4548-98a4-3df89bd835df">
-
-#### Recommended Menu Items Page
-<img width="1432" alt="Recommended Menu Items Page" src="https://github.com/youngbryanyu/titan-health-app/assets/32204448/a8a60670-9556-4f23-b542-3ed41d047baa">
-
