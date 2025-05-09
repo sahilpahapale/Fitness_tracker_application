@@ -71,6 +71,3 @@ Below are screenshots of some of the pages within our site as a preview! **Note 
 
 #### Dietary Preferences Page
 <img width="1440" alt="Dietary Preferences Page" src="https://github.com/youngbryanyu/titan-health-app/assets/32204448/eb6b4734-ea34-439f-a916-22af63b3c6f9">
-
-#### Home Page
-<img width="1440" alt="Home Page" src="https://github.com/youngbryanyu/titan-health-app/assets/32204448/aaa9c1fb-fa5d-4548-98a4-3df89bd835df">
